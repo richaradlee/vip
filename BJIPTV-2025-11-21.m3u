@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 4K电影]" tvg-logo="" [北京IPTV 4K电影]
-http://192.168.1.1:4022/rtp/239.3.1.249:8001
-
-#EXTINF:-1 tvg-id="" tvg-name="[IPTV淘电影[高清]" tvg-logo="" [北京IPTV淘电影[高清]
-http://192.168.1.1:4022/rtp/239.3.1.250:8001
-
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" [高清]央视",CCTV-6电影[高清]
 http://192.168.1.1:4022/rtp/239.3.1.174:8001
+
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 4K电影]" tvg-logo="" 北京IPTV 4K电影
+http://192.168.1.1:4022/rtp/239.3.1.249:8001
+
+#EXTINF:-1 tvg-id="" tvg-name="[IPTV淘电影[高清]" tvg-logo="" 北京IPTV淘电影[高清]
+http://192.168.1.1:4022/rtp/239.3.1.250:8001
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" [高清]央视;[高清]北京IPTV;4K",CCTV 4K]
 http://192.168.1.1:4022/rtp/239.3.1.245:2000
